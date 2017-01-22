@@ -1,3 +1,3 @@
 # hello-world
 first test
-Testing and learning github. 
+Hello. My name is Anders. Testing a commit on github.
